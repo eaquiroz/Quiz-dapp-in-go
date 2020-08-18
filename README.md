@@ -16,6 +16,7 @@ To use compile-abi.sh:
 
 # Run
 1. Create a .env file. You can use env_example as a template.
+
 cp env_example .env
 
 2. Your .env file should look like this:
