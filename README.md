@@ -1,4 +1,3 @@
-# Basic Quiz DApp in Go
 # Requirements
 Requires:
 
