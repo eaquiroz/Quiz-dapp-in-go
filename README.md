@@ -20,7 +20,7 @@ cp env_example .env
 
 2. Your .env file should look like this:
 GATEWAY="https://rinkeby.infura.io/v3/<project_id>"                 // IPC or TCP Gateway
-KEYSTORE="keystore/UTC--2019-01-11T19-49-52.732927400Z--<addr>"     // Keystore file.
+KEYSTORE="keystore/UTC--2020-08-18T02-49-52.732927400Z--<addr>"     // Keystore file.
 KEYSTOREPASS=""                                                     // Keystore password
 QUESTION="this is a question"                                       // Quiz question
 ANSWER="this is an answer"                                          // Quiz answer
