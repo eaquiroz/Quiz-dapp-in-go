@@ -1,5 +1,5 @@
-Basic Quiz DApp in Go
-Requirements
+# Basic Quiz DApp in Go
+# Requirements
 Requires:
 
 Go ^1.11
@@ -13,7 +13,7 @@ solc from github.com/ethereum/solidity ^0.5.2
 To use compile-abi.sh:
 
 Docker
-Run
+# Run
 Create a .env file. You can use env_example as a template.
 cp env_example .env
 Your .env file should look like this:
@@ -26,6 +26,6 @@ Make sure you have a keystore file. You can create one with geth (and in the pro
 
 Or to run the application in a private chain:
 
-# You'll find your keystore file in ./private_node/go-ethereum.../<keystorefile>
-# Your IPC endpoint will be ./private_node/geth.ipc
+You'll find your keystore file in ./private_node/go-ethereum.../<keystorefile>
+Your IPC endpoint will be ./private_node/geth.ipc
 geth --dev --datadir ./private_node
