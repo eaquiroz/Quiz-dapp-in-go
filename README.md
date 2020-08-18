@@ -1,1 +1,0 @@
-# Quiz-dapp-in-go
